@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Advinha</string>
+    <string name="txt_bt_jogar">Jogar</string>
+    <string name="texto_numero">Numero</string>
+</resources>
